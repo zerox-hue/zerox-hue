@@ -13,6 +13,6 @@
 </p>
 <h2>👷 <b>Languages</b></h2>
 <p>
-  <code><img title="CSharp" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
-  <code><img title="Python" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
+  <code><img title="CSharp" height="100" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
+  <code><img title="Python" height="100" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
 </p>
