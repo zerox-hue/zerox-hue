@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=D%C3%A9veloppeur+Csharp+et+Python&center=true&size=20&color=red" height="200">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=D%C3%A9veloppeur+Csharp+et+Python&center=true&size=20&color=green" height="200">
   </a>
 </div>
 
