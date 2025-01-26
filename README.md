@@ -17,3 +17,4 @@
   <code><img title="Python" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
 </p>
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerox-hue&hide_progress=true)
