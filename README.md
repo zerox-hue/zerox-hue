@@ -15,7 +15,7 @@
 <p>
   <code><img title="CSharp" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
   <code><img title="Python" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
-  [![Zerox_Hue GitHub stats](https://github-readme-stats.vercel.app/api?username=zerox-hue)](https://github.com/anuraghazra/github-readme-stats)
 </p>
+  [![Zerox_Hue GitHub stats](https://github-readme-stats.vercel.app/api?username=zerox-hue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
