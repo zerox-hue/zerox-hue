@@ -17,4 +17,4 @@
   <code><img title="Python" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
 </p>
 </div>
-<img src ="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)"
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie(https://github.com/anuraghazra/github-readme-stats)"
