@@ -17,6 +17,6 @@
   <code><img title="Python" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
 </p>
   <a href="https://github.com/zerox-hue"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=zerox-hue&theme=radical&title_color=3455eb"></a>
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=zerox-hue&hide=html,scss,css&langs_count=1&layout=compact&theme=radical&card_width=150"/>
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=zerox-hue&hide=html,scss,css&langs_count=4&layout=compact&theme=radical&card_width=150"/>
 </div>
 
