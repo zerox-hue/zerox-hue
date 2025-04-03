@@ -15,7 +15,7 @@
 <p>
   <code><img title="CSharp" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
   <code><img title="Python" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
-  <code><img title="Python" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg"></code>
+  <code><img title="Lua" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg"></code>
   <img title="Rust" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg">
 
 </p>
