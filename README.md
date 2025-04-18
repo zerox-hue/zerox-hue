@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=D%C3%A9veloppeur+Csharp+,+Lua+et+Python&center=true&size=20&color=blue" height="200">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=D%C3%A9veloppeur+Csharp&center=true&size=20&color=blue" height="200">
   </a>
 </div>
 
@@ -14,9 +14,6 @@
 <h2>👷 <b>Languages</b></h2>
 <p>
   <code><img title="CSharp" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
-  <code><img title="Python" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
-  <code><img title="Lua" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg"></code>
-  <img title="Rust" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg">
 
 </p>
   <a href="https://github.com/zerox-hue"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=zerox-hue&theme=radical&title_color=3455eb"></a>
