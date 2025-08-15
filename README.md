@@ -1,3 +1,4 @@
+<h1>⚡ <b>ZeroX</b></h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=D%C3%A9veloppeur+Csharp,+Lua&center=true&size=20&color=blue" height="200">
@@ -10,7 +11,6 @@
 <p>
     <code><img title="Visual Studio" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"></code>
     <code><img title="Visual Studio Code" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"></code>
-  ffsqf
 </p>
 <h2>👷 <b>Languages</b></h2>
 <p>
