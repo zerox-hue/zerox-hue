@@ -1,4 +1,6 @@
+<div align="center">
 <h1>⚡ <b>ZeroX</b></h1>
+</div>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=D%C3%A9veloppeur+Csharp,+Lua&center=true&size=20&color=blue" height="200">
