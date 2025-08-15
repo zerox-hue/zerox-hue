@@ -10,6 +10,7 @@
 <p>
     <code><img title="Visual Studio" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"></code>
     <code><img title="Visual Studio Code" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"></code>
+  ffsqf
 </p>
 <h2>👷 <b>Languages</b></h2>
 <p>
