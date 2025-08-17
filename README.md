@@ -17,7 +17,7 @@
 <h2>👷 <b>Languages</b></h2>
 <p>
   <code><img title="CSharp" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
-  <code><img titile ="Lua" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg"</code>
+  <code><img titile ="Lua" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg"></code>
   <code><img title="HTML" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
   <code><img title="HTML" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
 </p>
