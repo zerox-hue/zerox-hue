@@ -1,5 +1,6 @@
 <div align="center">
 <h1>⚡ <b>ZeroX</b></h1>
+<h2>⚡ <b>Dev Back-end</b></h2>
 </div>
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -17,10 +18,7 @@
 <h2>👷 <b>Languages</b></h2>
 <p>
   <code><img title="CSharp" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
-  <code><img titile ="Lua" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg"></code>
   <code><img titile ="Python" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
-  <code><img title="HTML" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
-  <code><img title="CSS" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
 </p>
   <br>
   <a href="https://github.com/zerox-hue"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=zerox-hue&theme=radical&title_color=3455eb"></a>
