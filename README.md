@@ -19,8 +19,12 @@
 <p>
   <code><img title="CSharp" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
   <code><img titile ="Python" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
-  <code><img title="test" height="75" src="https://imgs.search.brave.com/Udh_mjsh_69F1CRQc96A5zMp3N_dbUvHcfs5X3YKsfo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL2NhbXB1/c01WUC9kb3RuZXRM/b2dvUGFjay9yYXcv/bWFpbi8uc2FtcGxl/cy9hc3AtZG90bmV0/LXdoaXRlLnBuZw"></code>
 </p>
+  <p>
+    <h2>🚧 <b>Frameworks</b></h2>
+    <code><img title="ASP.NET" height="75" src="https://imgs.search.brave.com/Udh_mjsh_69F1CRQc96A5zMp3N_dbUvHcfs5X3YKsfo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL2NhbXB1/c01WUC9kb3RuZXRM/b2dvUGFjay9yYXcv/bWFpbi8uc2FtcGxl/cy9hc3AtZG90bmV0/LXdoaXRlLnBuZw"></code>
+    <code><img title=".NET" height="75" src="https://imgs.search.brave.com/2ZTh5-7i6kL1iPuI2MVM9uP5NftcXs7-Vu_1J-_qZfg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dmVjdG9ybG9nby56/b25lL2xvZ29zL2Rv/dG5ldC9kb3RuZXQt/dGlsZS5zdmc"></code>
+  </p>
   <br>
   <a href="https://github.com/zerox-hue"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=zerox-hue&theme=radical&title_color=3455eb"></a>
   <br>
