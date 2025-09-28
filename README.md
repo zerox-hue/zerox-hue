@@ -19,6 +19,7 @@
 <p>
   <code><img title="CSharp" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
   <code><img titile ="Python" height="75" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
+  <code><img title="test" height="75" src="https://imgs.search.brave.com/Udh_mjsh_69F1CRQc96A5zMp3N_dbUvHcfs5X3YKsfo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL2NhbXB1/c01WUC9kb3RuZXRM/b2dvUGFjay9yYXcv/bWFpbi8uc2FtcGxl/cy9hc3AtZG90bmV0/LXdoaXRlLnBuZw"></code>
 </p>
   <br>
   <a href="https://github.com/zerox-hue"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=zerox-hue&theme=radical&title_color=3455eb"></a>
