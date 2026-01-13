@@ -1,11 +1,11 @@
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=emilenkz&abbreviated=true&label=Profile+views+of+emilenkz&color=lightgrey)
 <h1>⚡ <b>ZeroX</b></h1>
 <h2>⚡ <b>Dev Back-end</b></h2>
 </div>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Csharp,+Lua+et+Python,&center=true&size=20&color=blue" height="100">
+    <img src="https://komarev.com/ghpvc/?username=emilenkz&abbreviated=true&label=Profile+views+of+emilenkz&color=lightgrey" height="100">
   </a>
 </div>
 
