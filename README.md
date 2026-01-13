@@ -1,4 +1,5 @@
 <div align="center">
+  ![](https://komarev.com/ghpvc/?username=emilenkz&abbreviated=true&label=Profile+views+of+emilenkz&color=lightgrey)
 <h1>⚡ <b>ZeroX</b></h1>
 <h2>⚡ <b>Dev Back-end</b></h2>
 </div>
